@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1D3C1B9D2B417C4F00F565D8 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D3C1B9C2B417C4F00F565D8 /* DetailView.swift */; };
+		1D3C1B9F2B42A05900F565D8 /* DetailEditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D3C1B9E2B42A05900F565D8 /* DetailEditView.swift */; };
 		1D6644C72B3C34C1005A1205 /* ScrumdingerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D6644C62B3C34C1005A1205 /* ScrumdingerApp.swift */; };
 		1D6644C92B3C34C1005A1205 /* MettingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D6644C82B3C34C1005A1205 /* MettingView.swift */; };
 		1D6644CB2B3C34C2005A1205 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D6644CA2B3C34C2005A1205 /* Assets.xcassets */; };
@@ -21,6 +22,7 @@
 
 /* Begin PBXFileReference section */
 		1D3C1B9C2B417C4F00F565D8 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		1D3C1B9E2B42A05900F565D8 /* DetailEditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailEditView.swift; sourceTree = "<group>"; };
 		1D6644C32B3C34C1005A1205 /* Scrumdinger.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Scrumdinger.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D6644C62B3C34C1005A1205 /* ScrumdingerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumdingerApp.swift; sourceTree = "<group>"; };
 		1D6644C82B3C34C1005A1205 /* MettingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MettingView.swift; sourceTree = "<group>"; };
@@ -72,6 +74,7 @@
 				1D6644CC2B3C34C2005A1205 /* Preview Content */,
 				1DA25A242B3F313B00E0208E /* ScrumsView.swift */,
 				1D3C1B9C2B417C4F00F565D8 /* DetailView.swift */,
+				1D3C1B9E2B42A05900F565D8 /* DetailEditView.swift */,
 			);
 			path = Scrumdinger;
 			sourceTree = "<group>";
@@ -165,6 +168,7 @@
 			files = (
 				1DA25A1F2B3EDC2500E0208E /* DailyScrum.swift in Sources */,
 				1D3C1B9D2B417C4F00F565D8 /* DetailView.swift in Sources */,
+				1D3C1B9F2B42A05900F565D8 /* DetailEditView.swift in Sources */,
 				1DA25A232B3EE90300E0208E /* TrailingIconLabelStyle.swift in Sources */,
 				1DA25A1D2B3EDB0D00E0208E /* Theme.swift in Sources */,
 				1DA25A252B3F313B00E0208E /* ScrumsView.swift in Sources */,
